@@ -1,0 +1,4 @@
+@import "bourbon";
+
+@include font-face("glyphicons-halflings-regular", "../libs/bootstrap/fonts/glyphicons-halflings-regular", $file_formats: eot woff woff2 ttf);
+@include font-face("ubunturegular", "../fonts/ubunturegular/ubuntu-regular", $file_formats: eot woff woff2 ttf);
